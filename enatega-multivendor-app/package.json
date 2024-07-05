@@ -102,7 +102,7 @@
     "subscriptions-transport-ws": "^0.11.0",
     "uglify-js": "^3.17.4",
     "uuid": "^9.0.1",
-    "expo-linking": "~6.2.2"
+    "expo-linking": "~6.3.1"
   },
   "devDependencies": {
     "@expo/metro-config": "^0.17.3",
