@@ -106,8 +106,9 @@
     "rn-placeholder": "^3.0.1",
     "sentry-expo": "~7.2.0",
     "subscriptions-transport-ws": "^0.11.0",
-    "uglify-js": "^3.17.4",
-    "uuid": "^9.0.1"
+    "uglify-js": "^3.19.3",
+    "uuid": "^9.0.1",
+    "expo-linking": "~6.2.2"
   },
   "devDependencies": {
     "@expo/metro-config": "^0.17.3",
